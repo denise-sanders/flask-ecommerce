@@ -1,0 +1,9 @@
+dress/
+*.pyc
+__pycache__
+.idea*
+.idea/
+.idea/**/workspace.xml
+db_repository/
+app.db
+
